@@ -14,6 +14,7 @@ parse_for = gets.chop
 
 
 Net::POP3.enable_ssl(OpenSSL::SSL::VERIFY_NONE)  
+#Only works with the Yahoo Plus accounts
 Net::POP3.start('pop.yahoo.com', 995, email, password) do |pop|
 
 	if pop.mails.empty?
