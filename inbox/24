@@ -1,0 +1,395 @@
+MIME-Version: 1.0
+Received: by 10.182.177.1 with HTTP; Tue, 18 Dec 2012 14:45:06 -0800 (PST)
+In-Reply-To: <CAL-NqX-9Dedrwqtg_9km-nN5SbCv9N6x09KK0YUOArSgaTO8ww@mail.gmail.com>
+References: <CAAggXTyaR=vHbTin8ipzS30t5OD=NTgOeYVzOy2jNJTQZ8Z21w@mail.gmail.com>
+	<CAL-NqX-YzoQCkPjsTZTe_rydVGU-or6niWQnS6mer5ib6UoMLA@mail.gmail.com>
+	<CAAggXTyd1gNq5Vno_u9gJ87Psh7ZM+WbgO=LtoO2e6Arm8j5dQ@mail.gmail.com>
+	<CAL-NqX-9Dedrwqtg_9km-nN5SbCv9N6x09KK0YUOArSgaTO8ww@mail.gmail.com>
+Date: Tue, 18 Dec 2012 17:45:06 -0500
+Delivered-To: slaitors@gmail.com
+Message-ID: <CAAggXTx4Q_6OuBJJa5O9r0DjhSsM+A7+_8QDYcutSD4n57HGAQ@mail.gmail.com>
+Subject: Re: Part-Time Software Engineer (UCF Area)
+From: David Ledford <slaitors@gmail.com>
+To: Nina Talley <nina@cloudspace.com>
+Content-Type: multipart/mixed; boundary=089e012954d8d0d5af04d1283f49
+
+--089e012954d8d0d5af04d1283f49
+Content-Type: multipart/alternative; boundary=089e012954d8d0d5a504d1283f47
+
+--089e012954d8d0d5a504d1283f47
+Content-Type: text/plain; charset=ISO-8859-1
+
+Sorry for taking so long to reply. This time of year, I have not had almost
+any time to myself to be able to work on this. The time that I have had, I
+am not sure I completed what it is that you asked. I created a command line
+program, that when you run it in the command line, it asked for you email,
+password and a key phrase to use while parsing the emails. I had trouble
+getting this to run in ruby on rails, inside of heroku, though the program
+even inside of rails in the logs, would read the emails.
+
+So, even though this has been so much time, I wanted to try to send you
+what I have created and hope that this is what you wanted when you asked me
+to create a program that parsed email. If you need this to be in the ruby
+on rails, and on the rails server so that you can try this, I will work
+some more on this. I am sorry for the amount of time that this took and I
+will understand if I am to late, but I figured it would not hurt to still
+try.
+
+If you want this as a rails app, just let me know, I will work more and
+hopefully get this working the way it should.
+
+On Wed, Nov 28, 2012 at 2:51 PM, Nina Talley <nina@cloudspace.com> wrote:
+
+> Hi David,
+>
+>      Sorry about the delay in response, still getting caught up from the
+> Thanksgiving holiday over here. Thanks so much for the info! We can work
+> with those hours. Before we bring you in for an interview, we ask that all
+> applicants complete the included coding practical. It's just the best way
+> for us to get a handle on your skill-set. Please let me know if you have
+> any questions, thanks!
+>
+> *Coding Practical*
+>
+> *Languages Accepted: Ruby, Python and PHP*
+>
+> *Parsing an Email*
+>
+> What do we mean by parse an email? Go to Gmail, open an incoming email,
+> and do View Original. You should see a text file of a raw email. The goal
+> here is to parse that and extract relevant fields.
+> This is actually a very difficult thing and a proper implementation could
+> take months. However, it's possible to do the basics, without handling all
+> of the intricacies, in maybe an hour.
+>
+> *Your goals:*
+>
+>    - Take in an email and parse it into relevant fields. Figure out what
+>    those relevant fields are.
+>    - Create a good foundation. Try to write extensible/maintainable code.
+>    - When you're done, list out next steps you'd take in your
+>    implementation. Eg, 'I'd focus on handling different MIME types in the
+>    body', etc.
+>    - Don't use a library like TMail that does parsing for you, but feel
+>    free to use any non- email-specific libraries you want to.
+>
+> *A few notes about your goals:*
+>
+>    - The directions are purposefully vague. Make decisions on what you
+>    think is best for the goal you're trying to accomplish. Feel free to tell
+>    us why you made certain decisions in your summary.
+>    - Use the RFC Email Specs as a starting point to help you parse the
+>    email.
+>    - Google is your friend!
+>
+>
+>
+> On Wed, Nov 21, 2012 at 2:54 PM, David Ledford <slaitors@gmail.com> wrote:
+>
+>> I did see that this was part time, and depending on the pay and the
+>> amount of hours I would get, the commute would be fine.
+>>
+>> I of course would need more information to know if this would be workable
+>> for me. I am currently employed, so part time works, but the schedule would
+>> be a key factor.
+>>
+>> I thought that this may be something we would be able to discuss when we
+>> met.
+>>
+>> To not waste your time, I currently am working a permanent schedule that
+>> is:
+>>
+>> 5 days a week, with Tuesdays and Saturdays off, 7:00am until 3:30pm, so
+>> if this is not workable I would understand. And if it is, I would love to
+>> work towards a more permanent and full time position.
+>>
+>>
+>> On Tue, Nov 20, 2012 at 2:39 PM, Nina Talley <nina@cloudspace.com> wrote:
+>>
+>>> Hi David,
+>>>
+>>>      Thanks so much for your interest! I see that you live in Palm Bay,
+>>> are you willing to make the commute to Orlando? Also, I just want to verify
+>>> that you're comfortable working part-time and not full-time. Thanks for the
+>>> info, I look forward to hearing back from you soon!
+>>>
+>>>
+>>> On Tue, Nov 20, 2012 at 2:33 PM, David Ledford <slaitors@gmail.com>wrote:
+>>>
+>>>> I have quite a bit of experience using ruby on rails. My first
+>>>> programming project on my resume is actually a social network I built using
+>>>> Ruby on Rails. This project is still work in progress, and not many users,
+>>>> but shows that I have worked with Ruby on Rails.
+>>>>
+>>>> I would love to set up a time I may be able speak with someone about
+>>>> this job.
+>>>>
+>>>> My phone number is 321-345-4720
+>>>>
+>>>> Sincerely,
+>>>>
+>>>> David Ledford
+>>>>
+>>>> http://orlando.craigslist.org/sof/3420867027.html
+>>>>
+>>>
+>>>
+>>>
+>>> --
+>>> [image: Cloudspace.com] <http://www.cloudspace.com/> Nina TalleyAccount ManagerOffice:
+>>> 877.823.8808
+>>>
+>>> 11551 University Blvd, Suite 2
+>>>
+>>> Orlando, FL 32817
+>>>
+>>>
+>>
+>
+>
+> --
+> [image: Cloudspace.com] <http://www.cloudspace.com/> Nina Talley Account
+> ManagerOffice: 877.823.8808
+>
+> 11551 University Blvd, Suite 2
+>
+> Orlando, FL 32817
+>
+>
+
+--089e012954d8d0d5a504d1283f47
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sorry for taking so long to reply. This time of year, I have not had almost=
+ any time to myself to be able to work on this. The time that I have had, I=
+ am not sure I completed what it is that you asked. I created a command lin=
+e program, that when you run it in the command line, it asked for you email=
+, password and a key phrase to use while parsing the emails. I had trouble =
+getting this to run in ruby on rails, inside of heroku, though the program =
+even inside of rails in the logs, would read the emails.<br>
+<br>So, even though this has been so much time, I wanted to try to send you=
+ what I have created and hope that this is what you wanted when you asked m=
+e to create a program that parsed email. If you need this to be in the ruby=
+ on rails, and on the rails server so that you can try this, I will work so=
+me more on this. I am sorry for the amount of time that this took and I wil=
+l understand if I am to late, but I figured it would not hurt to still try.=
+<br>
+<br>If you want this as a rails app, just let me know, I will work more and=
+ hopefully get this working the way it should.<br><br><div class=3D"gmail_q=
+uote">On Wed, Nov 28, 2012 at 2:51 PM, Nina Talley <span dir=3D"ltr">&lt;<a=
+ href=3D"mailto:nina@cloudspace.com" target=3D"_blank">nina@cloudspace.com<=
+/a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Hi David,<div><br></div><div>=A0 =A0 =A0Sorr=
+y about the delay in response, still getting caught up from the Thanksgivin=
+g holiday over here. Thanks so=A0much=A0for the info! We can work with thos=
+e hours. Before we bring you in for an interview, we ask that all applicant=
+s complete the included coding practical. It&#39;s just the best way for us=
+ to get a handle on your skill-set. Please let me know if you have any ques=
+tions, thanks!<br>
+
+<br></div><div><p style=3D"font-size:13px;font-family:arial,sans-serif"><b>=
+<font color=3D"#000000">Codin<font>g=A0</font>Practical</font></b></p><p st=
+yle=3D"font-size:13px;font-family:arial,sans-serif"><b><font color=3D"#0000=
+00">Languages Accepted: Ruby, Python and PHP</font></b></p>
+
+<p style=3D"font-size:13px;font-family:arial,sans-serif"><b><font color=3D"=
+#000000">Parsing an Email</font></b></p><p style=3D"font-size:13px;font-fam=
+ily:arial,sans-serif"><font color=3D"#000000">What do we mean by parse an e=
+mail? Go to Gmail, open an incoming email, and do View Original. You should=
+ see a text file of a raw email. The goal here is to parse that and extract=
+ relevant fields.<br>
+
+This is actually a very difficult thing and a proper implementation could t=
+ake months. However, it&#39;s possible to do the basics, without handling a=
+ll of the intricacies, in maybe an hour.</font></p><p style=3D"font-size:13=
+px;font-family:arial,sans-serif">
+
+<b><font color=3D"#000000">Your goals:</font></b></p><ul style=3D"font-size=
+:13px;font-family:arial,sans-serif"><li style=3D"margin-left:15px"><font co=
+lor=3D"#000000">Take in an email and parse it into relevant fields. Figure =
+out what those relevant fields are.</font></li>
+
+<li style=3D"margin-left:15px"><font color=3D"#000000">Create a good founda=
+tion. Try to write extensible/maintainable code.</font></li><li style=3D"ma=
+rgin-left:15px"><font color=3D"#000000">When you&#39;re done, list out next=
+ steps you&#39;d take in your implementation. Eg, &#39;I&#39;d focus on han=
+dling different MIME types in the body&#39;, etc.</font></li>
+
+<li style=3D"margin-left:15px"><font color=3D"#000000">Don&#39;t use a libr=
+ary like TMail that does parsing for you, but feel free to use any non- ema=
+il-specific libraries you want to.</font></li></ul><div style=3D"font-size:=
+13px;font-family:arial,sans-serif">
+
+<font color=3D"#000000"><b>A few notes about your goals:</b><br></font><ul>=
+<li style=3D"margin-left:15px"><font color=3D"#000000">The directions are p=
+urposefully vague. Make decisions on what you think is best for the goal yo=
+u&#39;re trying to accomplish. Feel free to tell us why you made certain de=
+cisions in your summary.</font></li>
+
+<li style=3D"margin-left:15px"><font color=3D"#000000">Use the RFC Email Sp=
+ecs as a starting point to help you parse the email.</font></li><li style=
+=3D"margin-left:15px"><font color=3D"#000000">Google is your friend!</font>=
+</li>
+</ul>
+</div></div><div class=3D"HOEnZb"><div class=3D"h5"><div class=3D"gmail_ext=
+ra"><br><br><div class=3D"gmail_quote">On Wed, Nov 21, 2012 at 2:54 PM, Dav=
+id Ledford <span dir=3D"ltr">&lt;<a href=3D"mailto:slaitors@gmail.com" targ=
+et=3D"_blank">slaitors@gmail.com</a>&gt;</span> wrote:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">I did see that this was part time, and depen=
+ding on the pay and the amount of hours I would get, the commute would be f=
+ine.<br>
+
+<br>I of course would need more information to know if this would be workab=
+le for me. I am currently employed, so part time works, but the schedule wo=
+uld be a key factor.<br>
+<br>I thought that this may be something we would be able to discuss when w=
+e met.<br><br>To not waste your time, I currently am working a permanent sc=
+hedule that is:<br><br>5 days a week, with Tuesdays and Saturdays off, 7:00=
+am until 3:30pm, so if this is not workable I would understand. And if it i=
+s, I would love to work towards a more permanent and full time position.<di=
+v>
+
+<div><br>
+<br><div class=3D"gmail_quote">On Tue, Nov 20, 2012 at 2:39 PM, Nina Talley=
+ <span dir=3D"ltr">&lt;<a href=3D"mailto:nina@cloudspace.com" target=3D"_bl=
+ank">nina@cloudspace.com</a>&gt;</span> wrote:<br><blockquote class=3D"gmai=
+l_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left=
+:1ex">
+
+
+Hi David,<div><br></div><div>=A0 =A0 =A0Thanks so much for your interest! I=
+ see that you live in Palm Bay, are you willing to make the commute to Orla=
+ndo? Also, I just want to verify that you&#39;re comfortable working part-t=
+ime and not full-time. Thanks for the info, I look forward to hearing back =
+from you soon!<div>
+
+
+<div><br>
+<br><div class=3D"gmail_quote">On Tue, Nov 20, 2012 at 2:33 PM, David Ledfo=
+rd <span dir=3D"ltr">&lt;<a href=3D"mailto:slaitors@gmail.com" target=3D"_b=
+lank">slaitors@gmail.com</a>&gt;</span> wrote:<br><blockquote class=3D"gmai=
+l_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left=
+:1ex">
+
+
+
+I have quite a bit of experience using ruby on rails. My first programming =
+project on my resume is actually a social network I built using Ruby on Rai=
+ls. This project is still work in progress, and not many users, but shows t=
+hat I have worked with Ruby on Rails.<br>
+
+
+
+
+<br>I would love to set up a time I may be able speak with someone about th=
+is job.<br><br>My phone number is <a href=3D"tel:321-345-4720" value=3D"+13=
+213454720" target=3D"_blank">321-345-4720</a><br><br>Sincerely,<br><br>Davi=
+d Ledford<br>
+
+
+
+<br><a href=3D"http://orlando.craigslist.org/sof/3420867027.html" target=3D=
+"_blank">http://orlando.craigslist.org/sof/3420867027.html</a><br>
+</blockquote></div><br><br clear=3D"all"><div><br></div></div></div><span><=
+font color=3D"#888888">-- <br><span style=3D"font-family:arial,sans-serif;f=
+ont-size:13px;border-collapse:collapse"><table style=3D"font-family:georgia=
+,sans-serif;color:rgb(0,118,163);font-size:16px">
+
+
+
+<tbody><tr><td style=3D"margin-top:0px;margin-right:0px;margin-bottom:0px;m=
+argin-left:0px;font-family:arial,sans-serif;float:left" width=3D"351"><a hr=
+ef=3D"http://www.cloudspace.com/" style=3D"color:rgb(237,28,36)" target=3D"=
+_blank"><img src=3D"" alt=3D"Cloudspace.com" style=3D"border-top-width:0px;=
+border-right-width:0px;border-bottom-width:0px;border-left-width:0px" heigh=
+t=3D"49" width=3D"296"></a></td>
+
+
+
+</tr><tr><td style=3D"margin-top:0px;margin-right:0px;margin-bottom:0px;mar=
+gin-left:0px;font-family:arial,sans-serif;float:left" width=3D"351">Nina Ta=
+lley</td></tr><tr><td style=3D"margin-top:0px;margin-right:0px;margin-botto=
+m:0px;margin-left:0px;font-family:arial,sans-serif;float:left" width=3D"351=
+">
+
+
+
+Account Manager</td></tr><tr><td style=3D"margin-top:0px;margin-right:0px;m=
+argin-bottom:0px;margin-left:0px;font-family:arial,sans-serif;float:left">O=
+ffice: <a href=3D"tel:877.823.8808" value=3D"+18778238808" target=3D"_blank=
+">877.823.8808</a></td>
+
+
+</tr><tr><td style=3D"margin-top:0px;margin-right:0px;margin-bottom:0px;mar=
+gin-left:0px;font-family:arial,sans-serif;float:left">
+<p style=3D"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-le=
+ft:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">1=
+1551 University Blvd, Suite 2</p><p style=3D"padding-top:0px;padding-right:=
+0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;mar=
+gin-bottom:0px;margin-left:0px">
+
+
+
+Orlando, FL 32817</p></td></tr></tbody></table></span><br>
+</font></span></div>
+</blockquote></div><br>
+</div></div></blockquote></div><br><br clear=3D"all"><div><br></div>-- <br>=
+<span style=3D"font-family:arial,sans-serif;font-size:13px;border-collapse:=
+collapse"><table style=3D"font-family:georgia,sans-serif;color:rgb(0,118,16=
+3);font-size:16px">
+
+<tbody><tr><td style=3D"margin-top:0px;margin-right:0px;margin-bottom:0px;m=
+argin-left:0px;font-family:arial,sans-serif;float:left" width=3D"351"><a hr=
+ef=3D"http://www.cloudspace.com/" style=3D"color:rgb(237,28,36)" target=3D"=
+_blank"><img src=3D"" alt=3D"Cloudspace.com" style=3D"border-top-width:0px;=
+border-right-width:0px;border-bottom-width:0px;border-left-width:0px" heigh=
+t=3D"49" width=3D"296"></a></td>
+
+</tr><tr><td style=3D"margin-top:0px;margin-right:0px;margin-bottom:0px;mar=
+gin-left:0px;font-family:arial,sans-serif;float:left" width=3D"351">Nina Ta=
+lley</td></tr><tr><td style=3D"margin-top:0px;margin-right:0px;margin-botto=
+m:0px;margin-left:0px;font-family:arial,sans-serif;float:left" width=3D"351=
+">
+
+Account Manager</td></tr><tr><td style=3D"margin-top:0px;margin-right:0px;m=
+argin-bottom:0px;margin-left:0px;font-family:arial,sans-serif;float:left">O=
+ffice: <a href=3D"tel:877.823.8808" value=3D"+18778238808" target=3D"_blank=
+">877.823.8808</a></td>
+</tr><tr><td style=3D"margin-top:0px;margin-right:0px;margin-bottom:0px;mar=
+gin-left:0px;font-family:arial,sans-serif;float:left">
+<p style=3D"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-le=
+ft:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">1=
+1551 University Blvd, Suite 2</p><p style=3D"padding-top:0px;padding-right:=
+0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;mar=
+gin-bottom:0px;margin-left:0px">
+
+Orlando, FL 32817</p></td></tr></tbody></table></span><br>
+</div>
+</div></div></blockquote></div><br>
+
+--089e012954d8d0d5a504d1283f47--
+--089e012954d8d0d5af04d1283f49
+Content-Type: application/octet-stream; name="parse_gmail.rb"
+Content-Disposition: attachment; filename="parse_gmail.rb"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_havm9p5l0
+
+cmVxdWlyZSAnbmV0L3BvcCcNCg0KZGlyZWN0b3J5X25hbWUgPSAiaW5ib3giDQpEaXIubWtkaXIo
+ZGlyZWN0b3J5X25hbWUpIHVubGVzcyBGaWxlLmV4aXN0cz8oZGlyZWN0b3J5X25hbWUpDQoNCnBy
+aW50ICJFbnRlciBnbWFpbCBhY2NvdW50KGpzbWl0aEBnbWFpbC5jb20pOiAiDQplbWFpbCA9IGdl
+dHMuY2hvcA0KDQpwcmludCAiRW50ZXIgcGFzc3dvcmQ6ICINCnBhc3N3b3JkID0gZ2V0cy5jaG9w
+DQoNCnByaW50ICJTZWFyY2ggbWFpbCBmb3IoYmxhbmsgZm9yIGFsbCBtYWlsKTogIg0KcGFyc2Vf
+Zm9yID0gZ2V0cy5jaG9wDQoNCg0KTmV0OjpQT1AzLmVuYWJsZV9zc2woT3BlblNTTDo6U1NMOjpW
+RVJJRllfTk9ORSkgIA0KTmV0OjpQT1AzLnN0YXJ0KCdwb3AuZ21haWwuY29tJywgOTk1LCBlbWFp
+bCwgcGFzc3dvcmQpIGRvIHxwb3B8DQoNCglpZiBwb3AubWFpbHMuZW1wdHk/DQoJCXB1dHMgIk5v
+IG5ldyBtYWlsISINCgllbHNlDQoJCW4gPSAxDQoJCXBvcC5lYWNoX21haWwgZG8gfG1zZ3wNCgkJ
+CWlmIG1zZy5wb3AuaW5jbHVkZT8oIm5pbmFAY2xvdWRzcGFjZS5jb20iKQ0KCQkJCXB1dHMgIk1l
+c3NhZ2UgbnVtYmVyICN7bn0gYmVpbmcgZG93bmxvYWRlZC4iDQoJCQkJRmlsZS5vcGVuKCJpbmJv
+eC8je259IiwgInciKSBkbyB8ZnwNCgkJCQkJbXNnLnBvcCBkbyB8c2VnbWVudHwNCgkJCQkJCWYu
+d3JpdGUgc2VnbWVudA0KCQkJCQllbmQNCgkJCQkJbiArPSAxDQoJCQkJZW5kDQoJCQllbmQNCgkJ
+ZW5kDQoJCXB1dHMgIkZpbmlzaGVkISINCgllbmQNCmVuZCANCg==
+--089e012954d8d0d5af04d1283f49--

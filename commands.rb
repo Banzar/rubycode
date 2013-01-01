@@ -1,0 +1,6 @@
+puts(`dir`)
+sleep(1)
+puts("Goodbye #{%x{dir}}")
+sleep(1)
+puts(`cd ..//`)
+sleep(1)
